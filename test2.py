@@ -7,3 +7,5 @@ while True:
 
     except ValueError:
         print('this is not a number')    
+#  see changes
+y = 10
